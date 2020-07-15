@@ -181,10 +181,11 @@ fieldset {
     width: 320px;
     height: 34px;
     border: 1px solid black;
+    margin: 10px;
    
 }
 #button-form{
-    width: 320px;
+    width: 346px;
     height: 44px;
     border: 1px solid black;  
 }
