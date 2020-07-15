@@ -3,6 +3,21 @@
     padding: 0;
   }
 
+  body {
+      background-color: hsl(216, 15%, 94%);
+  }
+
+  p {
+      font-size: 12px;
+      color: hsl(0, 0%, 31%);
+  }
+  
+  a {
+      font-size: 12px;
+      color: hsl(204, 100%, 39%);
+      text-decoration: none;
+  }
+
   /*
   ========================================
   Nav
@@ -13,7 +28,44 @@
       width: auto;
       height: 60px;
       background: red;
+
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
   }
+
+  #top-div {
+      width: 293px;
+      height: 36px;
+      margin-right: 30px;
+      background: honeydew;
+
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      align-items: center;
+  }
+
+  #A {
+      width: 171px;
+      margin: 0;
+  }
+
+  .sing-in {
+      width: 171px;
+      height: 18px;
+  }
+
+  .id-pasword {
+      width: 171px;
+      height: 14px;
+  }
+
+  #B {
+    margin: 0;
+}
 
   /*
   ========================================
@@ -24,7 +76,6 @@
   header {
       width: auto;
       height: 75px;
-      background: green;
 
       display: -webkit-box;
       display: -ms-flexbox;
