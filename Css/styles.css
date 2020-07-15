@@ -27,8 +27,6 @@
   nav  {
       width: auto;
       height: 60px;
-      background: red;
-
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
@@ -40,17 +38,17 @@
       width: 293px;
       height: 36px;
       margin-right: 30px;
-      background: honeydew;
-
-      display: -webkit-box;
-      display: -ms-flexbox;
+      text-align: left;
+      line-height: 18px;
       display: flex;
       align-items: center;
+      justify-content: space-between;
   }
 
   #A {
       width: 171px;
-      margin: 0;
+      margin: 0px;
+      text-align: right;
   }
 
   .sing-in {
@@ -64,8 +62,32 @@
   }
 
   #B {
-    margin: 0;
-}
+      margin: 0px;
+  } 
+
+  #button-nav {
+    width: 103px;
+    height: 34px;
+    margin-right: 10px;
+    padding: 0px 16px;
+    background-color: hsl(204, 100%, 39%);
+    border-color: hsl(0, 0%, 30%);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    color: hsl(0, 0%, 100%);
+    font-size: 13.5px;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+  }
+
+  #lock {
+      width: 11px;
+      height: 14px;
+      margin-right: 10px;
+      margin: 2px 4px 0px 0px;
+  }
 
   /*
   ========================================
