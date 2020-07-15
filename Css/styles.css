@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  /*
+  ========================================
+  Nav
+  ========================================
+*/
+
+  nav  {
+      width: auto;
+      height: 60px;
+      background: red;
+  }
+
+  /*
+  ========================================
+ Header
+  ========================================
+*/
+
+  header {
+      width: auto;
+      height: 75px;
+      background: green;
+
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  header img {
+      width: 165px;
+      height: 80px;
+  }
+  /*
+  ========================================
+Main
+  ========================================
+*/
+
+  main {
+      width: auto;
+      height: 812px;
+      background: greenyellow;
+  }
