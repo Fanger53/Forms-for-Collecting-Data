@@ -124,7 +124,7 @@ main {
     flex-direction: column;
     align-items: center;
 }
-#form-header{
+#main-header{
     width: 100%;
     height: 45px;
     border: 1px solid black;
@@ -164,14 +164,39 @@ main {
 
 /* form */
 #form {
-    width:380px;
-    height :675px;
+    width: 380px;
+    height: 675px;
     border: 1px solid black;
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
+
+#form-header {
+    width: 318px;
+    height: 98px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+#form-header-div {
+    width: 318px;
+    height: 52px;
+    color: hsl(0, 0%, 30%);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16.8px;
+    padding: 20px 0px 0px;
+}
+
+.p-1 {
+    font-size: 14px;
+}
+
 fieldset {
     display: flex;
     flex-direction: column;
