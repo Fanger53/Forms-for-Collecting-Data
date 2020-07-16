@@ -3,7 +3,9 @@ This project consists of building an HTML and CSS document that matches the appe
 
 Additional description about the project and its features.
 
-Built With : Html,CSS and github technologies used:flex-box and grid of CSS Live Demo Linkhttps://rawcdn.githack.com/Fanger53/Forms-for-Collecting-Data/deaecc82d1bef1d7c37c38b9328756fd7a101cd4/index.html
+Built With : Html,CSS and github technologies used:flex-box and grid of CSS Live Demo Link:
+
+https://rawcdn.githack.com/Fanger53/Forms-for-Collecting-Data/4564fd27bfc35285bdaa3874da7b9e094f361b6a/index.html
 
 Getting Started
 
@@ -15,9 +17,9 @@ Authors
 
 👤 Author1
 
-Github: @BrianSammit
+Github: @BrianSammit https://github.com/BrianSammit
 
-Twitter:@CruzSammit
+Twitter:@CruzSammit https://twitter.com/CruzSammit
 
 Linkedin: https://www.linkedin.com/in/brian-sammit-cruz-rodriguez-5877551a8/
 
