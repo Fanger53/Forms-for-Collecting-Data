@@ -140,6 +140,13 @@ h2 {
 #form-ul li {
     margin: 5px;
 }
+
+.li-text {
+    font-size: 12px;
+    color: hsl(0, 0%, 30%);
+
+}
+
 #img1{
     width:23px;
     height: 23px;
