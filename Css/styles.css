@@ -132,31 +132,10 @@ main {
   color: hsl(0, 0%, 46%);
 }
 
-#img1 {
+.img-icon {
   width: 25px;
   height: 25px;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGcgZmlsbD0ibm9uZSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iMTAiIGZpbGw9IiMwMEE2QTQiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMTAgMi43NzdjLS42NTguNjYtNS4xNzQgNS4zMDktNS4xNzQgOC45MyAwIDIuNTc4IDIuMDU1IDMuNDMyIDUuMTc0IDUuNTU0IDMuMTItMi4xMjIgNS4xNzQtMi45NzYgNS4xNzQtNS41NTQgMC0zLjYyMS00LjUxNS04LjI3LTUuMTc0LTguOTN6bTAgMTIuNzQ4bC0uNjA3LS4zOTdjLTIuMzItMS41MTEtMy4xMjMtMi4xMDEtMy4xMjMtMy40MjEgMC0yLjA0NCAyLjAyOC00Ljg4OCAzLjczLTYuODE2djEwLjYzNHoiLz48L2c+PC9zdmc+);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
-#img2 {
-  width: 23px;
-  height: 23px;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii01OTguNSA5NzEuNSA1MCA1MCI+PGNpcmNsZSBjeD0iLTU3My41IiBjeT0iOTk2LjUiIHI9IjI1IiBmaWxsPSIjMmNhMDFjIi8+PHBhdGggZD0iTS01OTEuNSw5OTYuNWMwLDUuNCw0LjQsOS44LDkuOCw5LjhoMS40di0zLjZoLTEuNGMtMy40LDAtNi4yLTIuOC02LjItNi4yczIuOC02LjIsNi4yLTYuMmgzLjQgYzAsMCwwLDE4LjYsMCwxOC44YzAsMiwxLjYsMy42LDMuNiwzLjZ2LTI2LjJjMCwwLTMuOCwwLTcsMEMtNTg3LjMsOTg2LjctNTkxLjUsOTkxLjEtNTkxLjUsOTk2LjV6IE0tNTY1LjEsOTg2LjdoLTEuNHYzLjZoMS40IGMzLjQsMCw2LjIsMi44LDYuMiw2LjJzLTIuOCw2LjItNi4yLDYuMmgtMy40YzAsMCwwLTE4LjYsMC0xOC44YzAtMi0xLjYtMy42LTMuNi0zLjZ2MjYuMmMwLDAsMy44LDAsNywwYzUuNCwwLDkuOC00LjQsOS44LTkuOCBDLTU1NS41LDk5MS4xLTU1OS43LDk4Ni43LTU2NS4xLDk4Ni43eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
-#img3 {
-  width: 23px;
-  height: 23px;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii01OTguNSA5NzEuNSA1MCA1MCI+PGNpcmNsZSBjeD0iLTU3My41IiBjeT0iOTk2LjUiIHI9IjI1IiBmaWxsPSIjZDUyYjFlIi8+PHBhdGggZD0iTS01NzkuMSwxMDA1LjdjLTIuOC0yLTUuNi00LjItOC4yLTYuNmMtMSwyLjItMS44LDQuNC0yLjYsNi42YzQuMiwzLjYsOS44LDcuNiwxMy44LDEwIGM1LTEzLDEyLjgtMjEuNCwyMC40LTI3LjRjLTEtMi0yLjItMy44LTMuOC01LjRDLTU2Ny43LDk4OC45LTU3NC4zLDk5Ni43LTU3OS4xLDEwMDUuN3oiIGZpbGw9IiNmZmYiLz48L3N2Zz4=);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  margin-top: 5px;
 }
 
 /* form */
