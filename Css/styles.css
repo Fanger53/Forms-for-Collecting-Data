@@ -126,6 +126,12 @@ main {
     width: 100%;
     height: 45px;
 }
+
+h2 {
+    color: hsl(0, 0%, 30%);
+    line-height: 26.4px;
+    font-size: 24px;
+}
 #form-ul{
     list-style: none;
     display:flex;
@@ -192,6 +198,8 @@ main {
 
 .p-1 {
     font-size: 14px;
+    line-height: 16.8px;
+    font-weight: 300;
 }
 
 fieldset {
@@ -215,6 +223,7 @@ fieldset {
 #footer-form {
     width: 273px;
     height: 56px;
+    margin-top: 44px;
     text-align: center;
     font-size: 14px;
     line-height: 18px;
@@ -227,7 +236,7 @@ fieldset {
 }
 
 #form-section {
-    width: 346px;
+    width: 348px;
     height: 21px;
     background-color: hsl(216, 15%, 94%);
     font-size: 14px;
