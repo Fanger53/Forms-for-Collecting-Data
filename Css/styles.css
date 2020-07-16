@@ -118,10 +118,13 @@ Main
 main {
     width: auto;
     height: 812px;
-    background: greenyellow;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+#main-header {
+    height: 42px;
 }
 
 #form-ul{
@@ -132,12 +135,7 @@ main {
 #form-ul li {
     margin: 5px;
     font-size:20px;
-}
-
-.li-text {
-    font-size: 12px;
-    color: hsl(0, 0%, 30%);
-
+    color: hsl(0, 0%, 46%);
 }
 
 #img1{
@@ -169,7 +167,8 @@ main {
 #form {
     width:380px;
     height :675px;
-    border: 1px solid black;
+    background-color: hsl(0, 0%, 100%);
+    border: 1px solid hsl(0, 0%, 78%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -193,6 +192,19 @@ main {
     padding: 20px 0px 0px;
 }
 
+h2 {
+    color: hsl(0, 0%, 30%);
+    font-size: 24px;
+    line-height: 26.4px;
+    margin-top: 5px;
+}
+
+.p-1 {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16.8px;
+}
+
 fieldset {
     display: flex;
     flex-direction: column;
@@ -205,9 +217,10 @@ fieldset {
     margin: 10px;
     border-radius: 4px;
     font-size: 1em;
+    color: hsl(0, 0%, 25%);
 }
 .ipt {
-    border: 1px solid black;
+    border: 1px solid hsl(206, 6%, 77%);
 }
 .icon{
     background-image: url(/img/lock-gray.svg);
@@ -217,21 +230,23 @@ fieldset {
     
 }
 #button-form{
-    width: 346px;
+    width: 322px;
     height: 44px;
-    border: 1px solid black;  
+    border: 1px solid #0077C5;;  
     margin-top: 20px;
     text-transform: capitalize;
     font-size: 1.1em;
     color:white;
     text-align: center;
     border-radius: 4px;
-    background-color: rgb(52, 52, 206);
+    background-color: #0077C5;
+    cursor: pointer;
 }
 
 #footer-form {
     width: 273px;
     height: 56px;
+    margin: 10px;
     text-align: center;
     font-size: 14px;
     line-height: 18px;
@@ -256,6 +271,7 @@ fieldset {
 
 .span-1 {
     font-size: 10px;
+    color: hsl(220, 4%, 57%);
 }
 
 .a-1 {
@@ -265,7 +281,6 @@ fieldset {
 footer  {
     width: 1214px;
     height: 99px;
-    border: 1px solid black;
 }
 
 #footer-links {
@@ -274,6 +289,7 @@ footer  {
     justify-content: center;
     align-items: center;
     margin-top: 20px
+    
 }
 
 .footer-li {
@@ -286,6 +302,9 @@ footer  {
 .a-li {
     color: hsl(0, 0%, 31%);
     font-size: 12px;
+    margin: 0px 10px;
+    line-height: 18px;
+    text-align: center;
 }
 
 .span-2 {
@@ -295,4 +314,28 @@ footer  {
     font-size: 12px;
     text-align: center;
 
+}
+
+#ul-div-span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*main Button*/
+
+#button-main {
+    width: 124px;
+    height: 41px;
+    border-radius: 4px ;
+    border: none;
+    margin-top: 20px;
+    font-size: 14px;
+    color:white;
+    text-align: center;
+    background-color:hsl(0, 0%, 45%);
+    cursor: pointer;
+    position: fixed;
+    bottom: 0;
+    left: 1100px;
 }
