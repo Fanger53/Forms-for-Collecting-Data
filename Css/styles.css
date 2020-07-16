@@ -1,22 +1,22 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
+  margin: 0;
+  padding: 0;
+}
 
-  body {
+body {
     background-color: hsl(216, 15%, 94%);
-  }
+}
 
-  p {
+p {
       font-size: 12px;
       color: hsl(0, 0%, 31%);
-  }
+}
   
-  a {
+a {
       font-size: 12px;
       color: hsl(204, 100%, 39%);
       text-decoration: none;
-  }
+}
 
   /*
   ========================================
@@ -24,7 +24,7 @@
   ========================================
 */
 
-  nav  {
+nav  {
       width: auto;
       height: 60px;
       display: -webkit-box;
@@ -32,9 +32,9 @@
       display: flex;
       justify-content: flex-end;
       align-items: center;
-  }
+}
 
-  #top-div {
+#top-div {
       width: 293px;
       height: 36px;
       margin-right: 30px;
@@ -43,9 +43,9 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-  }
+}
 
-  #A {
+#A {
       width: 171px;
       margin: 0px;
       text-align: right;
