@@ -98,7 +98,6 @@
 header {
     width: auto;
     height: 75px;
-
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -136,10 +135,11 @@ main {
 }
 #form-ul li {
     margin: 5px;
+    font-size:20px;
 }
 #img1{
-    width:23px;
-    height: 23px;
+    width:25px;
+    height: 25px;
     background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGcgZmlsbD0ibm9uZSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iMTAiIGZpbGw9IiMwMEE2QTQiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMTAgMi43NzdjLS42NTguNjYtNS4xNzQgNS4zMDktNS4xNzQgOC45MyAwIDIuNTc4IDIuMDU1IDMuNDMyIDUuMTc0IDUuNTU0IDMuMTItMi4xMjIgNS4xNzQtMi45NzYgNS4xNzQtNS41NTQgMC0zLjYyMS00LjUxNS04LjI3LTUuMTc0LTguOTN6bTAgMTIuNzQ4bC0uNjA3LS4zOTdjLTIuMzItMS41MTEtMy4xMjMtMi4xMDEtMy4xMjMtMy40MjEgMC0yLjA0NCAyLjAyOC00Ljg4OCAzLjczLTYuODE2djEwLjYzNHoiLz48L2c+PC9zdmc+);
     background-repeat: no-repeat;
     background-size: cover;
@@ -184,7 +184,6 @@ fieldset {
     margin: 10px;
     border-radius: 4px;
     font-size: 1em;
-    
 }
 .ipt {
     border: 1px solid black;
@@ -256,7 +255,7 @@ footer  {
     margin-top: 20px
 }
 
-li {
+.footer-li {
     margin: 0px 10px;
     color: hsl(0, 0%, 31%);
     font-size: 12px;
