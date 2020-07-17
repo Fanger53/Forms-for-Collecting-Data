@@ -25,9 +25,9 @@ Linkedin: https://www.linkedin.com/in/brian-sammit-cruz-rodriguez-5877551a8/
 
 👤 Author2
 
-Github: @Fanger53
+Github: https://github.com/Fanger53
 
-Twitter: @DavidLe97005129
+Twitter: https://twitter.com/DavidLe97005129
 
 Linkedin: https://www.linkedin.com/in/david-castillo-61ba10b8/
 
