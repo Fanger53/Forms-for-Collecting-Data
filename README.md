@@ -5,7 +5,7 @@ Additional description about the project and its features.
 
 Built With : Html,CSS and github technologies used:flex-box and grid of CSS Live Demo Link:
 
-https://rawcdn.githack.com/Fanger53/Forms-for-Collecting-Data/4564fd27bfc35285bdaa3874da7b9e094f361b6a/index.html
+https://rawcdn.githack.com/Fanger53/Forms-for-Collecting-Data/774010b15dd564a44e183494882ef1296c293455/index.html
 
 Getting Started
 
