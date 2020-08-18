@@ -8,8 +8,8 @@ This project consists of building an HTML and CSS document that matches the appe
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
 - [CSS](https://www.w3schools.com/css/),
-- [GitHub](https://fontawesome.com/),
-- [googlefonts](https://fonts.google.com/),
+- [GitHub](https://github.com/),
+- [fontawesome](https://fontawesome.com/),
 
 ## Live Demo
 
